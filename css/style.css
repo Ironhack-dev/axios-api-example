@@ -1,0 +1,10 @@
+.pokemon {
+  width: 200px;
+  height: 200px;
+  border: 1px solid red;
+}
+
+.pokemon img {
+  width: 100%;
+  object-fit: cover;
+}
